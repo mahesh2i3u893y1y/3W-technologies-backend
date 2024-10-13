@@ -21,3 +21,10 @@ or
 ## name : 3W
 ## password : 3W@123
 
+you can refeer the following urls to acces data :
+
+ to get usersData:  https://threew-technologies-backend-1.onrender.com/users
+
+ 
+ 
+
